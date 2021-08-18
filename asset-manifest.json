@@ -1,26 +1,31 @@
 {
   "files": {
-    "main.css": "/static/css/main.d843ab12.chunk.css",
-    "main.js": "/static/js/main.027cbc2e.chunk.js",
-    "main.js.map": "/static/js/main.027cbc2e.chunk.js.map",
+    "main.css": "/static/css/main.8385e6ef.chunk.css",
+    "main.js": "/static/js/main.4f67e46c.chunk.js",
+    "main.js.map": "/static/js/main.4f67e46c.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.18e760d9.js",
     "runtime-main.js.map": "/static/js/runtime-main.18e760d9.js.map",
-    "static/js/2.53c1c4d2.chunk.js": "/static/js/2.53c1c4d2.chunk.js",
-    "static/js/2.53c1c4d2.chunk.js.map": "/static/js/2.53c1c4d2.chunk.js.map",
+    "static/js/2.752ab052.chunk.js": "/static/js/2.752ab052.chunk.js",
+    "static/js/2.752ab052.chunk.js.map": "/static/js/2.752ab052.chunk.js.map",
     "static/js/3.6cd53381.chunk.js": "/static/js/3.6cd53381.chunk.js",
     "static/js/3.6cd53381.chunk.js.map": "/static/js/3.6cd53381.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.d843ab12.chunk.css.map": "/static/css/main.d843ab12.chunk.css.map",
-    "static/js/2.53c1c4d2.chunk.js.LICENSE.txt": "/static/js/2.53c1c4d2.chunk.js.LICENSE.txt",
+    "static/css/main.8385e6ef.chunk.css.map": "/static/css/main.8385e6ef.chunk.css.map",
+    "static/js/2.752ab052.chunk.js.LICENSE.txt": "/static/js/2.752ab052.chunk.js.LICENSE.txt",
+    "static/media/abschluss_zeugnis_gsh.232277a4.pdf": "/static/media/abschluss_zeugnis_gsh.232277a4.pdf",
     "static/media/me.a4452343.png": "/static/media/me.a4452343.png",
     "static/media/me2x3.1405c4da.png": "/static/media/me2x3.1405c4da.png",
     "static/media/me512x512.718374ba.png": "/static/media/me512x512.718374ba.png",
-    "static/media/study_grades.ee342cbe.pdf": "/static/media/study_grades.ee342cbe.pdf"
+    "static/media/praktikumZertifikat.1905151f.pdf": "/static/media/praktikumZertifikat.1905151f.pdf",
+    "static/media/praktikum_nicklas.95a54505.pdf": "/static/media/praktikum_nicklas.95a54505.pdf",
+    "static/media/praktikum_pdr.b8570c8e.pdf": "/static/media/praktikum_pdr.b8570c8e.pdf",
+    "static/media/study_grades.ee342cbe.pdf": "/static/media/study_grades.ee342cbe.pdf",
+    "static/media/zwischenzeugnis_12_fos.6103eb47.pdf": "/static/media/zwischenzeugnis_12_fos.6103eb47.pdf"
   },
   "entrypoints": [
     "static/js/runtime-main.18e760d9.js",
-    "static/js/2.53c1c4d2.chunk.js",
-    "static/css/main.d843ab12.chunk.css",
-    "static/js/main.027cbc2e.chunk.js"
+    "static/js/2.752ab052.chunk.js",
+    "static/css/main.8385e6ef.chunk.css",
+    "static/js/main.4f67e46c.chunk.js"
   ]
 }
